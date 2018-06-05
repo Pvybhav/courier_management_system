@@ -8,7 +8,7 @@ const LoginOrSignup = () => (
         <Button primary fluid>Login</Button>            
         </Link>
         <Divider horizontal>Or</Divider>
-        <Link to="/signup">
+        <Link to="/user_signup">
         <Button secondary fluid>Sign Up Now</Button>
         </Link>
     </Segment>
